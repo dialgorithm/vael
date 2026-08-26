@@ -1,0 +1,10 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ESP32-S3-WROOM-1-N8R8") (type "KiCad") (uri "/Users/shaileshsaravanan/Documents/VS Code/vael/lib/ESP32-S3-WROOM-1-N8R8") (options "") (descr ""))
+	(lib (name "FS8205A") (type "KiCad") (uri "/Users/shaileshsaravanan/Documents/VS Code/vael/lib/FS8205A") (options "") (descr ""))
+	(lib (name "MT3608") (type "KiCad") (uri "/Users/shaileshsaravanan/Documents/VS Code/vael/lib/MT3608") (options "") (descr ""))
+	(lib (name "PRESSURE-BMP180_LGA7_") (type "KiCad") (uri "/Users/shaileshsaravanan/Documents/VS Code/vael/lib/PRESSURE-BMP180_LGA7_") (options "") (descr ""))
+	(lib (name "TP4056") (type "KiCad") (uri "/Users/shaileshsaravanan/Documents/VS Code/vael/lib/TP4056") (options "") (descr ""))
+	(lib (name "footprints") (type "KiCad") (uri "/Users/shaileshsaravanan/Documents/VS Code/vael/lib/ul_MPU-6050/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "USBLC6-2SC6") (type "KiCad") (uri "/Users/shaileshsaravanan/Documents/VS Code/vael/lib/USBLC6-2SC6") (options "") (descr ""))
+)
