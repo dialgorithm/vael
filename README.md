@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-an esp32s3 (n8r8) flight controller designed for data logging, sensor measurement, and embedded flight applications.
+esp32-s3 n8r8 flight controller for sensing and data logging.
 </h4>
 
 ![pcb](assets/3dinit.png)
