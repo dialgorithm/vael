@@ -7,9 +7,7 @@
 an esp32s3 (n8r8) flight controller designed for data logging, sensor measurement, and embedded flight applications.
 </h4>
 
-<div align="center">
 ![pcb](assets/3dinit.png)
-</div>
 
 ## it features
 
