@@ -1,37 +1,37 @@
 component, qty, cost, why, source
 pcb, 5, $13, main, https://robu.in/product/online-pcb-manufacturing-service/
-JST XH Pitch Plug and Socket, 5, $1, connect battery, https://robu.in/product/2-pin-jst-xh-2-54mm-pitch-plug-and-socket-with-cable-10-pcs/
-0.1uF 1206 Capacitor, 55, $1.5, 11 per pcb, https://robu.in/product/0-1uf-capacitor-smdc-1206/
-10uF 1206 Capacitor, 15, $2.3, 3 per pcb, https://robu.in/product/10uf-10000nf-50v-capacitor-1206-smd-package-pack-of-5/
-100nF 1206 Capacitor, 10, $1, 2 per pcb, https://robu.in/product/100nf-1206-surface-mount-multilayer-ceramic-capacitor-pack-of-30/
-22uF 1206 Capacitor, 10, $1, 2 per pcb, https://robu.in/product/1206x226m250nt-fh-25v-22uf-x5r%c2%b120-1206-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/
-1N5819 Schottky Diodes, 5, $1.7, one way current flow, https://robu.in/product/1-month-warranty-1053/
-LED 1206 Package, 15, $1, 3 per pcb, https://robu.in/product/xl-3216uoc-fb-xinglight-reverse-mount-orange-120-1206-led-indication-discrete-rohs/
-SS34 Schottky Diodes ROHS, 5, $4.5, non reversible current, https://robu.in/product/ss34-onsemi-40v-500mv3a-3a-smcdo-214ab-schottky-diodes-rohs/
-LL43-GS08 Rectifier Diode, 5, $5, no current backflow, https://www.lioncircuits.com/parts/LL43-GS08
-DM3AT-SF-PEJM5 Micro SD socket, 5, $25, flight logs, https://www.lioncircuits.com/parts/DM3AT-SF-PEJM5
-GCT USB4105 (USB C) Connector, 5, $8, flash and debug, https://www.lioncircuits.com/parts/USB4105-GF-A
-2.54mm Male pin header, 25, $5, for motor connections, https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/
-4.7uH 1206 Inductor, 5, $2.2, for impedance, https://robu.in/product/lqm31pn4r7m00l-murata-electronics-700ma-4-7uh-%c2%b120-375m%cf%89-1206-inductors-smd-rohs/
+JST XH Pitch Plug and Socket, 2, $0.5, connect battery, https://robu.in/product/2-pin-jst-xh-2-54mm-pitch-plug-and-socket-with-cable-10-pcs/
+0.1uF 1206 Capacitor, 22, $1, 11 per pcb, https://robu.in/product/0-1uf-capacitor-smdc-1206/
+10uF 1206 Capacitor, 6, $1.3, 3 per pcb, https://robu.in/product/10uf-10000nf-50v-capacitor-1206-smd-package-pack-of-5/
+100nF 1206 Capacitor, 5, $0.5, 2 per pcb, https://robu.in/product/100nf-1206-surface-mount-multilayer-ceramic-capacitor-pack-of-30/
+22uF 1206 Capacitor, 5, $0.5, 2 per pcb, https://robu.in/product/1206x226m250nt-fh-25v-22uf-x5r%c2%b120-1206-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/
+1N5819 Schottky Diodes, 2, $0.9, one way current flow, https://robu.in/product/1-month-warranty-1053/
+LED 1206 Package, 6, $0.8, 3 per pcb, https://robu.in/product/xl-3216uoc-fb-xinglight-reverse-mount-orange-120-1206-led-indication-discrete-rohs/
+SS34 Schottky Diodes ROHS, 2, $2.3, non reversible current, https://robu.in/product/ss34-onsemi-40v-500mv3a-3a-smcdo-214ab-schottky-diodes-rohs/
+LL43-GS08 Rectifier Diode, 2, $3, no current backflow, https://www.lioncircuits.com/parts/LL43-GS08
+DM3AT-SF-PEJM5 Micro SD socket, 2, $13, flight logs, https://www.lioncircuits.com/parts/DM3AT-SF-PEJM5
+GCT USB4105 (USB C) Connector, 2, $4, flash and debug, https://www.lioncircuits.com/parts/USB4105-GF-A
+2.54mm Male pin header, 10, $3, for motor connections, https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/
+4.7uH 1206 Inductor, 2, $2.2, for impedance, https://robu.in/product/lqm31pn4r7m00l-murata-electronics-700ma-4-7uh-%c2%b120-375m%cf%89-1206-inductors-smd-rohs/
 FS8205A Mosfets, 5, $1, , https://robu.in/product/1-month-warranty-398/
-10k 1206 Resistors, 20, $1, 4 per pcb, https://robu.in/product/rc1206fr-0710kl-yageo-res-thick-film-1206-10k-ohm-1-0-25w1-4w-%c2%b1100ppm-c-pad-smd-t-r/
+10k 1206 Resistors, 8, $1, 4 per pcb, https://robu.in/product/rc1206fr-0710kl-yageo-res-thick-film-1206-10k-ohm-1-0-25w1-4w-%c2%b1100ppm-c-pad-smd-t-r/
 110k 1206 Resistors, 5, $1, resist current, https://robu.in/product/1206w4f1103t5e-uniohm-royal-ohm-250mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83%c2%b11-110k%cf%89-1206-chip-resistor-surface-mount-rohs/
 15k 1206 Resistors, 5, $1, resist current, https://robu.in/product/1206w4f1502t5e-uniohm-royal-ohm-250mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83-%c2%b11-15k%cf%89-1206-chip-resistor-surface-mount-rohs/
-1k 1206 Resistors, 20, $1, 4 per pcb, https://robu.in/product/wr12x1001ftl-walsin-250mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83-%c2%b11-1k%cf%89-1206-chip-resistor-surface-mount-rohs/
-2k 1206 Resistors, 10, $1, 2 per pcb, https://robu.in/product/wr12x2001ftl-walsin-250mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83-%c2%b11-2k%cf%89-1206-chip-resistor-surface-mount-rohs/
-4.7k 1206 Resistors, 10, $1, 2 per pcb, https://robu.in/product/rc1206fr-104k7l-yageo-250mw-thick-film-resistors-%c2%b1100ppm-%e2%84%83-%c2%b11-4-7k%cf%89-1206-chip-resistor-surface-mount-rohs/
+1k 1206 Resistors, 8, $1, 4 per pcb, https://robu.in/product/wr12x1001ftl-walsin-250mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83-%c2%b11-1k%cf%89-1206-chip-resistor-surface-mount-rohs/
+2k 1206 Resistors, 4, $1, 2 per pcb, https://robu.in/product/wr12x2001ftl-walsin-250mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83-%c2%b11-2k%cf%89-1206-chip-resistor-surface-mount-rohs/
+4.7k 1206 Resistors, 4, $1, 2 per pcb, https://robu.in/product/rc1206fr-104k7l-yageo-250mw-thick-film-resistors-%c2%b1100ppm-%e2%84%83-%c2%b11-4-7k%cf%89-1206-chip-resistor-surface-mount-rohs/
 220 1206 Resistors, 5, $1, resist current, https://robu.in/product/1206w4f2200t5e-uniohm-royal-ohm-250mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83%c2%b11-220%cf%89-1206-chip-resistor-surface-mount-rohs/
-5.1k 1206 Resistors, 10, $1, 2 per pcb, https://robu.in/product/1206w4f5101t5e-uniohm-royal-ohm-250mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83-%c2%b11-5-1k%cf%89-1206-chip-resistor-surface-mount-rohs/
+5.1k 1206 Resistors, 4, $1, 2 per pcb, https://robu.in/product/1206w4f5101t5e-uniohm-royal-ohm-250mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83-%c2%b11-5-1k%cf%89-1206-chip-resistor-surface-mount-rohs/
 100 1206 Resistors, 5, $1, resist current, https://robu.in/product/ac1206fr-07100rl-yageo-res-thick-film-1206-100-ohm-1-0-25w1-4w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/
-6x6x5mm Tactile Push Button Switch, 5, $1, reset clicky, https://robu.in/product/6x6x5mm-tactile-push-button-switch-pack-of-20/
-Mini Slide Switch 7Pin SMD, 5, $1, mode slide switch, https://sharvielectronics.com/product/mini-slide-switch-7pin-smd-2-positions-h1-5mm-1p2t-spdt/
-ESP32-S3-WROOM-1-N8R8, 5, $26, brain, https://robu.in/product/espressif-esp32-s3-wroom-1-n8r8-modules/
-DW01A Battery Protection IC, 5, $1, protect pcb, https://robu.in/product/dw01a-4-3v-lithium-ion-lithium-polymer-battery-protection-ic-6pin-sot-23/
-USBLC6-2SC6 ESD and Surge Protection IC, 5, $1, protect pcb, https://robu.in/product/usblc6-2sc6-ms-msksemi-4-5a-15v-150w-6v-5v-sot-23-6-esd-and-surge-protection-tvs-esd-rohs/
-TP4056 SOP-8 SMD Package, 5, $1.2, battery charging, https://robu.in/product/1-month-warranty-1253/
-MT3608 DC Boost converter, 5, $1.6, 3.3v ==> 5v, https://robu.in/product/mt3608-xian-aerosemi-tech-boost-type-adjustable-2a-2v24v-sot-23-6-dc-dc-converters-rohs/
-AMS1117-3.3 LDO Regulators, 5, $1, regulates voltage, https://robu.in/product/1-month-warranty-385/
-MPU 6050 QFN-24 3-Axis Gyro/Accelerometer IC, 5, $18, orientation and position data, https://zbotic.in/product/mpu-6050-qfn-24-3-axis-gyro-accelerometer-ic/
-BMP180 LGA-7 Digital Pressure Sensor IC, 5, $5.2, pressure data, https://sharvielectronics.com/product/bmp180-digital-pressure-sensor-ic-lga-7-package/
+6x6x5mm Tactile Push Button Switch, 2, $1, reset clicky, https://robu.in/product/6x6x5mm-tactile-push-button-switch-pack-of-20/
+Mini Slide Switch 7Pin SMD, 2, $1, mode slide switch, https://sharvielectronics.com/product/mini-slide-switch-7pin-smd-2-positions-h1-5mm-1p2t-spdt/
+ESP32-S3-WROOM-1-N8R8, 2, $13.8, brain, https://robu.in/product/espressif-esp32-s3-wroom-1-n8r8-modules/
+DW01A Battery Protection IC, 2, $1, protect pcb, https://robu.in/product/dw01a-4-3v-lithium-ion-lithium-polymer-battery-protection-ic-6pin-sot-23/
+USBLC6-2SC6 ESD and Surge Protection IC, 2, $1, protect pcb, https://robu.in/product/usblc6-2sc6-ms-msksemi-4-5a-15v-150w-6v-5v-sot-23-6-esd-and-surge-protection-tvs-esd-rohs/
+TP4056 SOP-8 SMD Package, 2, $1, battery charging, https://robu.in/product/1-month-warranty-1253/
+MT3608 DC Boost converter, 2, $1, 3.3v ==> 5v, https://robu.in/product/mt3608-xian-aerosemi-tech-boost-type-adjustable-2a-2v24v-sot-23-6-dc-dc-converters-rohs/
+AMS1117-3.3 LDO Regulators, 2, $1, regulates voltage, https://robu.in/product/1-month-warranty-385/
+MPU 6050 QFN-24 3-Axis Gyro/Accelerometer IC, 2, $11.6, orientation and position data, https://zbotic.in/product/mpu-6050-qfn-24-3-axis-gyro-accelerometer-ic/
+BMP180 LGA-7 Digital Pressure Sensor IC, 2, $5.2, pressure data, https://sharvielectronics.com/product/bmp180-digital-pressure-sensor-ic-lga-7-package/
 8GB MicroSD Card, 2, $8.4, data logging, https://sharvielectronics.com/product/8gb-memory-card-sandisk/
-Total, -, $150, -, -
+Total, -, $112, -, -
