@@ -12,7 +12,7 @@ LL43-GS08 Rectifier Diode, 2, $3, no current backflow, https://www.lioncircuits.
 DM3AT-SF-PEJM5 Micro SD socket, 2, $13, flight logs, https://www.lioncircuits.com/parts/DM3AT-SF-PEJM5
 GCT USB4105 (USB C) Connector, 2, $4, flash and debug, https://www.lioncircuits.com/parts/USB4105-GF-A
 2.54mm Male pin header, 10, $3, for motor connections, https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/
-4.7uH 1206 Inductor, 2, $2.2, for impedance, https://robu.in/product/lqm31pn4r7m00l-murata-electronics-700ma-4-7uh-%c2%b120-375m%cf%89-1206-inductors-smd-rohs/
+4.7uH 120p6 Inductor, 2, $2.2, for impedance, https://robu.in/product/lqm31pn4r7m00l-murata-electronics-700ma-4-7uh-%c2%b120-375m%cf%89-1206-inductors-smd-rohs/
 FS8205A Mosfets, 5, $1, , https://robu.in/product/1-month-warranty-398/
 10k 1206 Resistors, 8, $1, 4 per pcb, https://robu.in/product/rc1206fr-0710kl-yageo-res-thick-film-1206-10k-ohm-1-0-25w1-4w-%c2%b1100ppm-c-pad-smd-t-r/
 110k 1206 Resistors, 5, $1, resist current, https://robu.in/product/1206w4f1103t5e-uniohm-royal-ohm-250mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83%c2%b11-110k%cf%89-1206-chip-resistor-surface-mount-rohs/
